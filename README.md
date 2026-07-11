@@ -20,3 +20,4 @@ Agradezco la oportunidad de presentar este proyecto durante la entrevista y esto
 ![Imagen de ejemplo](https://i.imgur.com/Et4CgXI.png)
 # porfolio-windows
 # portfolio-windows
+link : https://portfolioleandipardo.netlify.app/
